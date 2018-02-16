@@ -1,0 +1,69 @@
+{
+	"event": "media.pause",
+	"user": true,
+	"owner": true,
+	"Account": {
+		"id": 1,
+		"thumb": "https://plex.tv/users/thumbURL",
+		"title": "UserName"
+	},
+	"Server": {
+		"title": "Plex Server Name",
+		"uuid": "1234567890"
+	},
+	"Player": {
+		"local": true,
+		"publicAddress": "192.168.1.1",
+		"title": "Plex Web (Chrome)",
+		"uuid": "1234567890"
+	},
+	"Metadata": {
+		"librarySectionType": "show",
+		"ratingKey": "163963",
+		"key": "/library/metadata/163963",
+		"parentRatingKey": "158551",
+		"grandparentRatingKey": "139294",
+		"guid": "com.plexapp.agents.thetvdb://314087/2/8?lang=en",
+		"librarySectionID": 2,
+		"librarySectionKey": "/library/sections/2",
+		"type": "episode",
+		"title": "Blasts from the Past",
+		"grandparentKey": "/library/metadata/139294",
+		"parentKey": "/library/metadata/158551",
+		"grandparentTitle": "The Grand Tour (2016)",
+		"parentTitle": "Season 2",
+		"contentRating": "TV-PG",
+		"summary": "Jeremy Clarkson and Richard Hammond visit some evocative old motorsport locations in Europe using a pair of re-born 1950s sports cars, painstakingly rebuilt by their manufacturers to the original designs.\r\nWith Clarkson in the Aston Martin DB4 GT lightweight and Hammond in the Jaguar XKSS, the pair start their adventure on the street circuit in Pau, France before their fun is interrupted by the arrival of James May in a modern Honda Civic Type R which he insists is better in every way.\r\nAlso in this show, Jeremy takes care of some unfinished business by track testing the Ford GT first seen on the road in episode 2.\r\nPlus, Celebrity Face Off finds the world???s fastest drummer from a band beginning with the letter P as Stewart Copeland from The Police competes against Pink Floyd???s Nick Mason.",
+		"index": 8,
+		"parentIndex": 2,
+		"rating": 7.5,
+		"viewOffset": 1992877,
+		"lastViewedAt": 1517464124,
+		"year": 2018,
+		"thumb": "/library/metadata/163963/thumb/1517095730",
+		"art": "/library/metadata/139294/art/1515715306",
+		"parentThumb": "/library/metadata/158551/thumb/1517095730",
+		"grandparentThumb": "/library/metadata/139294/thumb/1515715306",
+		"grandparentArt": "/library/metadata/139294/art/1515715306",
+		"grandparentTheme": "/library/metadata/139294/theme/1515715306",
+		"originallyAvailableAt": "2018-01-26",
+		"addedAt": 1517094846,
+		"updatedAt": 1517095730,
+		"chapterSource": "media",
+		"Director": [{
+			"id": 9469,
+			"filter": "director=9469",
+			"tag": "Phil Churchward"
+		},
+		{
+			"id": 9470,
+			"filter": "director=9470",
+			"tag": "Brian Klein"
+		},
+		{
+			"id": 21414,
+			"filter": "director=21414",
+			"tag": "Kit Lynch Robinson"
+		}]
+	}
+}

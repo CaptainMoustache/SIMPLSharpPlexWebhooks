@@ -1,0 +1,40 @@
+1. librarySectionType
+2. ratingKey
+3. key
+4. parentRatingKey
+5. grandparentRatingKey
+6. guid
+7. librarySectionID
+8. librarySectionKey
+9. type
+10. title
+11. grandparentKey
+12. parentKey
+13. grandparentTitle
+14. parentTitle
+15. contentRating
+16. summary
+17. index
+18. parentIndex
+19. rating
+20. viewOffset
+21. lastViewedAt
+22. year
+23. thumb
+24. art
+25. parentThumb
+26. grandparentThumb
+27. grandparentArt
+28. grandparentTheme
+29. originallyAvailableAt
+30. addedAt
+31. updatedAt
+32. chapterSource         
+33. Director[]
+	- id
+	- filter
+	- tag
+34. Writer[]
+	- id
+	- filter
+	- tag
